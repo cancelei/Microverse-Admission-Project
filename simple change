@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0d56c1e..52500ad 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -20,7 +20,8 @@[m
+ [m
+     - The freeCodeCamp Team[m
+ [m
+[31m-    -->[m
+[32m+[m[32m  --> "Hello World!"[m[41m [m
+[32m+[m[41m  [m
+     <script  src="js/index.js"></script>[m
+   </body>[m
+ </html>[m
