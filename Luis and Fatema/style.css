@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+  }
+  header {
+    font-weight: bold;
+    font-family: Arial;
+  }
+  li{
+   margin-left: 50px;
+  }
+  code{
+    background-color:gray;
+  }
